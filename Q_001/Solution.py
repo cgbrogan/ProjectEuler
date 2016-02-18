@@ -10,3 +10,5 @@ for val in range(0,1000):
         continue
 
 print sum(s)
+
+# Answer: 233168
