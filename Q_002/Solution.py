@@ -10,7 +10,6 @@ while (True):
     else:
         second, first = first + second, second
         if (second % 2 == 0):
-            #print second
             counter += second
 
 print counter
