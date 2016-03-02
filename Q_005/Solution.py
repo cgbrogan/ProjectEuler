@@ -11,3 +11,5 @@ for i in xrange(0,len(number)-13):
     if value < prod:
         value = prod
 print value
+
+# Answer: 23514624000
